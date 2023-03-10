@@ -7,23 +7,44 @@ Fazer um programa para ler os dados de N funcionários (N fornecido pelo usuári
 Exemplo de interação:
 
 Informe o número de empregados: 3
+
 Empregado #1 dados:
+
 Terceirizado (s/n)? n
+
 Nome: Alex
+
 Horas: 50
+
 Valor por hora: 20,00
+
 Empregado #2 dados:
+
 Terceirizado (s/n)? y
+
 Nome: Bob
+
 Horas: 100
+
 Valor por hora: 15,00
+
 Valor adicional: 200,00
+
 Empregado #3 dados:
+
 Terceirizado (s/n)? n
+
 Nome: Maria
+
 Horas: 60
+
 Valor por hora: 20.00
+
 PAGAMENTOS:
+
 Alex - R$ 1000,00
+
 Bob - R$ 1720,00
+
 Maria - R$ 1200,00
+
